@@ -19,6 +19,7 @@
 |---|---|
 | 🧪 QA recruiter | [Testing skills](#-qa--testing) · [Projects](#-featured-projects) |
 | 🎨 Design lead | [UI/UX skills](#-uiux-design) · [Projects](#-featured-projects) |
+| 📋 Hiring manager | [Education](#-education) · [Certifications](#-certifications) |
 | 🔬 Researcher / supervisor | [Research](#-research) |
 | 👋 Just curious | [Spot the bug](#-spot-the-bug) |
 
@@ -28,20 +29,42 @@
 
 > Designer's eye, tester's instinct. I care about how software *feels* and whether it *holds up*. Some people see a button; I see 14 test cases and a contrast-ratio issue. 😄
 
-- 🎓 BSc (Hons) in Information Technology, University of Vavuniya
-- 🧪 Interested in **Quality Assurance** and **UI/UX design**
-- 🔬 Researching **vision-language models** for Sri Lankan lichen identification
+- 🎓 BSc (Hons) in Information Technology, University of Vavuniya · CGPA **3.75**
+- 🧪 Interested in **Quality Assurance**, **UI/UX design** and **Business Analysis**
+- 🔬 Researching **explainable vision-language models** for Sri Lankan lichen identification
 - 🤝 Love team projects: I've built, reviewed and merged code across multi-person repos
+- ✂️ Trained in **fashion design**, so I bring a designer's eye from fabric to Figma
 
 <details>
 <summary><b>⚡ Fun facts (click me)</b></summary>
 <br>
 
 - I've written code in **JavaScript, Java, TypeScript, C, MATLAB and Prolog**. Yes, Prolog. 🧠
+- I won a **merit award in a design competition** before I ever opened a design tool. 🏅
 - My research subject has no screen, no buttons and grows about 1 mm a year. 🍃
 - Favourite question: *"but what if the user clicks **here**?"*
 
 </details>
+
+---
+
+## 🎓 Education
+
+| Qualification | Institution | Details |
+|---|---|---|
+| **BSc (Hons) in Information Technology** | University of Vavuniya | Reading · CGPA 3.75 |
+| **Advanced Diploma in Dress-Making & Fashion Design** | Chimecita Sewing Training Institute | 2022–2023 (6 months) · 🏅 Merit Award, Design Competition |
+| **G.C.E. Advanced Level** | President Girls' College, Kurunegala | 2020–2022 |
+
+---
+
+## 📜 Certifications
+
+| Certificate | Issuer | Date |
+|---|---|---|
+| JavaScript Essentials 2 | Cisco Networking Academy | May 2025 |
+| JavaScript Essentials 1 | Cisco Networking Academy | Apr 2025 |
+| Introduction to SQL | Sololearn | Jun 2024 |
 
 ---
 
@@ -165,10 +188,15 @@ An AI-powered mobile app for University of Vavuniya students and prospective stu
 ## 🔬 Research
 
 <details>
-<summary><b>🍃 Lichen growth-form identification with vision-language models</b></summary>
+<summary><b>🍃 An Explainable Vision-Language Framework for Identification of Sri Lankan Lichen Growth Forms from Field-Acquired Bioimages</b></summary>
 <br>
 
-Final-year research project exploring how vision-language models can identify the growth forms of Sri Lankan lichens from images, making a specialist task more accessible to non-experts.
+Final-year research project (Sep 2026 – Jun 2027) at the University of Vavuniya.
+
+- **Goal:** identify lichen growth forms from field photographs, and explain *why* the model made each prediction
+- **Approach:** compare an image-only baseline with a vision-language classifier, with explainability built in
+- **Data:** a field-acquired image dataset, currently being collected
+- **Why it matters:** makes a specialist identification task more accessible to non-experts
 
 </details>
 
@@ -219,9 +247,8 @@ Found it? You'd make a great tester. 🧪
 
 ### 📫 Let's connect!
 
-Open to **QA** and **UI/UX** internships, collaborations and research conversations.
+Open to **QA**, **UI/UX** and **Business Analyst** roles, collaborations and research conversations.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8B5CF6&center=true&vCenter=true&width=450&lines=Thanks+for+visiting!+%E2%9C%A8;Found+a+bug%3F+Open+an+issue+%F0%9F%98%84" alt="Outro" />
 
 </div>
-
