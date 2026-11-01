@@ -17,7 +17,7 @@
 
 ---
 
-## 🧵 About Me
+##  About Me
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
@@ -43,7 +43,7 @@ const yeheni = {
 
 ---
 
-## 🤝 Connect
+##  Connect
 
 <p align="center">
   <a href="https://github.com/yeheniWijesinghe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -53,7 +53,7 @@ const yeheni = {
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,git,github,postman,vscode,figma&theme=dark" />
@@ -67,7 +67,7 @@ const yeheni = {
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-### 🌱 Leveling Up
+###  Leveling Up
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
@@ -77,7 +77,7 @@ const yeheni = {
 
 ---
 
-## 🧪 My QA Toolkit
+##  My QA Toolkit
 
 | 🔍 Manual Testing | ⚙️ Automation | 🌐 API | 🗄️ Data |
 |:---:|:---:|:---:|:---:|
@@ -87,7 +87,7 @@ const yeheni = {
 
 ---
 
-## 🏅 Certifications
+##  Certifications
 
 -  **Power BI for Beginners** — Simplilearn
 -  **JavaScript Essentials 2** — Cisco Networking Academy
@@ -96,7 +96,7 @@ const yeheni = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=yeheniWijesinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff7eb6&icon_color=6e40c9" />
@@ -117,7 +117,7 @@ const yeheni = {
 
 ---
 
-## 🏆 Trophies
+##  Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yeheniWijesinghe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
