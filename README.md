@@ -1,251 +1,136 @@
-<div align="center">
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:ff7eb6&height=200&section=header&text=Yeheni%20Wijesinghe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Breaking%20things%20so%20your%20users%20never%20have%20to&descAlignY=60&descSize=16" width="100%" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Yeheni+%F0%9F%91%8B;I+design+it.+Then+I+try+to+break+it.;QA+%C3%97+UI%2FUX+%C3%97+AI+%F0%9F%A7%AA%F0%9F%8E%A8;Teaching+AI+to+spot+lichens+%F0%9F%8D%83" alt="Typing intro" />
+<h1 align="center">Hi 👋, I'm Yeheni</h1>
 
-**Final-year IT undergraduate @ University of Vavuniya, Sri Lanka 🇱🇰**
+<p align="center">
+  <a href="https://github.com/yeheniWijesinghe">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=FF7EB6&center=true&vCenter=true&width=600&lines=QA+Enthusiast+%F0%9F%90%9E;Aspiring+Business+%26+System+Analyst+%F0%9F%93%8B;UI%2FUX+%2B+Frontend+Explorer+%F0%9F%8E%A8;Data+Storyteller+%F0%9F%93%8A;Designer+of+pixels+AND+patterns+%F0%9F%A7%B5" alt="Typing SVG" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
----
-
-## 🧭 Choose your path
-
-| You are a... | Jump to |
-|---|---|
-| 🧪 QA recruiter | [Testing skills](#-qa--testing) · [Projects](#-featured-projects) |
-| 🎨 Design lead | [UI/UX skills](#-uiux-design) · [Projects](#-featured-projects) |
-| 📋 Hiring manager | [Education](#-education) · [Certifications](#-certifications) |
-| 🔬 Researcher / supervisor | [Research](#-research) |
-| 👋 Just curious | [Spot the bug](#-spot-the-bug) |
+<p align="center">
+  <code>if (it_works) { test_it_again(); }</code>
+</p>
 
 ---
 
-## 🙋‍♀️ About Me
+## 🧵 About Me
 
-> Designer's eye, tester's instinct. I care about how software *feels* and whether it *holds up*. Some people see a button; I see 14 test cases and a contrast-ratio issue. 😄
+<img align="right" width="300" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
-- 🎓 BSc (Hons) in Information Technology, University of Vavuniya · CGPA **3.75**
-- 🧪 Interested in **Quality Assurance**, **UI/UX design** and **Business Analysis**
-- 🔬 Researching **explainable vision-language models** for Sri Lankan lichen identification
-- 🤝 Love team projects: I've built, reviewed and merged code across multi-person repos
-- ✂️ Trained in **fashion design**, so I bring a designer's eye from fabric to Figma
+**Yeheni** here — a final-year **BSc (Hons) in Information Technology** undergraduate at the **University of Vavuniya, Sri Lanka** 🇱🇰
 
-<details>
-<summary><b>⚡ Fun facts (click me)</b></summary>
-<br>
+- 🐞 I love finding the bug *before* the user does — test cases, API checks and automation are my happy place
+- 📋 I enjoy turning messy requirements into clear, buildable systems
+- 🎨 I care about interfaces that feel effortless, not just ones that work
+- 📊 I like asking data the right questions and turning the answers into stories
+- ✂️ I also hold a diploma in **Dress-Making & Fashion Design** — so I know a thing or two about patterns, precision and measuring twice before cutting once
+- 🔭 Aspiring researcher with an eye on postgraduate studies
 
-- I've written code in **JavaScript, Java, TypeScript, C, MATLAB and Prolog**. Yes, Prolog. 🧠
-- I won a **merit award in a design competition** before I ever opened a design tool. 🏅
-- My research subject has no screen, no buttons and grows about 1 mm a year. 🍃
-- Favourite question: *"but what if the user clicks **here**?"*
-
-</details>
-
----
-
-## 🎓 Education
-
-| Qualification | Institution | Details |
-|---|---|---|
-| **BSc (Hons) in Information Technology** | University of Vavuniya | Reading · CGPA 3.75 |
-| **Advanced Diploma in Dress-Making & Fashion Design** | Chimecita Sewing Training Institute | 2022–2023 (6 months) · 🏅 Merit Award, Design Competition |
-| **G.C.E. Advanced Level** | President Girls' College, Kurunegala | 2020–2022 |
-
----
-
-## 📜 Certifications
-
-| Certificate | Issuer | Date |
-|---|---|---|
-| JavaScript Essentials 2 | Cisco Networking Academy | May 2025 |
-| JavaScript Essentials 1 | Cisco Networking Academy | Apr 2025 |
-| Introduction to SQL | Sololearn | Jun 2024 |
-
----
-
-## 🎯 Currently Focused On
-
-- [ ] Building an automated test suite (unit, API and E2E) for EliteGear
-- [ ] Running a UX research and redesign case study for MyUniPal
-- [ ] Training and evaluating a VLM for lichen growth-form identification
-- [ ] Preparing for ISTQB Foundation
-
----
-
-## 🧪 QA & Testing
-
-<details open>
-<summary><b>What I do</b></summary>
-<br>
-
-Test planning · Test case design · Exploratory testing · Bug reporting · API testing · E2E automation · Usability testing
-
-</details>
-
-<details>
-<summary><b>Tools I'm using & learning</b></summary>
-<br>
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white)
-
-</details>
-
----
-
-## 🎨 UI/UX Design
-
-<details open>
-<summary><b>What I do</b></summary>
-<br>
-
-User research · Personas & journey maps · Wireframing · Prototyping · Heuristic evaluation · Accessibility (WCAG)
-
-</details>
-
-<details>
-<summary><b>Tools</b></summary>
-<br>
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</details>
-
----
-
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-<details open>
-<summary><b>🛒 EliteGear: Full-Stack E-Commerce App</b></summary>
-<br>
-
-A complete online store with a customer storefront and an admin dashboard for products, categories, users, orders and revenue.
-
-- **Stack:** React · Vite · Tailwind · Spring Boot · MongoDB
-- **My role:** Top committer and repo integrator; reviewed and merged team pull requests; built the registration flow, API service layer, profile page and category features
-- **Team:** 10+ contributors
-
-🔗 [View repository](https://github.com/Samo0203/EliteGear)
-
-</details>
-
-<details>
-<summary><b>🎓 MyUniPal: AI University Assistant (click to expand)</b></summary>
-<br>
-
-An AI-powered mobile app for University of Vavuniya students and prospective students, bringing handbook Q&A, GPA tools and feedback into one place.
-
-- **Stack:** React Native · TypeScript · Firebase · Groq (Llama 3.1, Whisper) · Pinecone
-- **Features:** RAG handbook chatbot · GPA calculator and AI advisor · voice input · AI-generated feedback reports for admins
-- **My role:** _Add your contribution here_
-
-</details>
-
-<details>
-<summary><b>📚 Coursework repos</b></summary>
-<br>
-
-| Repo | Module | Language |
-|---|---|---|
-| [IT2234](https://github.com/yeheniWijesinghe/IT2234) | Web Services & Server Technologies | JavaScript |
-| [IT2244](https://github.com/yeheniWijesinghe/IT2244) | Operating Systems | C |
-| [IT2223](https://github.com/yeheniWijesinghe/IT2223) | Design & Analysis of Algorithms | MATLAB |
-| [IT3133](https://github.com/yeheniWijesinghe/IT3133) | Mobile Communication & Computing | JavaScript |
-| [IT3143](https://github.com/yeheniWijesinghe/IT3143) | Digital Image Processing | MATLAB |
-| [IT3113](https://github.com/yeheniWijesinghe/IT3113) | Knowledge Based Systems | Prolog |
-
-</details>
-
----
-
-## 🔬 Research
-
-<details>
-<summary><b>🍃 An Explainable Vision-Language Framework for Identification of Sri Lankan Lichen Growth Forms from Field-Acquired Bioimages</b></summary>
-<br>
-
-Final-year research project (Sep 2026 – Jun 2027) at the University of Vavuniya.
-
-- **Goal:** identify lichen growth forms from field photographs, and explain *why* the model made each prediction
-- **Approach:** compare an image-only baseline with a vision-language classifier, with explainability built in
-- **Data:** a field-acquired image dataset, currently being collected
-- **Why it matters:** makes a specialist identification task more accessible to non-experts
-
-</details>
-
----
-
-## 🐞 Spot the bug
-
-A tiny QA challenge. Can you find what's wrong?
-
-```javascript
-function averageGPA(grades) {
-  let total = 0;
-  for (let i = 0; i <= grades.length; i++) {
-    total += grades[i];
-  }
-  return total / grades.length;
-}
+```js
+const yeheni = {
+  role:        "Final-year IT Undergraduate",
+  basedIn:     "Sri Lanka 🇱🇰",
+  lookingFor:  ["QA", "Business Analyst", "System Analyst", "UI/UX", "Frontend Dev", "Data Analyst"],
+  currentlyLearning: ["Cypress", "Playwright", "Regression & API Testing", "Power BI"],
+  superpower:  "Spotting the one misaligned pixel 👀",
+  offline:     "Sketching outfits & sewing 🧵",
+};
 ```
 
-<details>
-<summary><b>👀 Reveal answer</b></summary>
-<br>
+---
 
-The loop uses `i <= grades.length`, so it reads one element past the end. `grades[grades.length]` is `undefined`, and `total` becomes `NaN`. 
+## 🤝 Connect
 
-✅ Fix: use `i < grades.length`, and handle an empty array so you don't divide by zero.
-
-Found it? You'd make a great tester. 🧪
-
-</details>
+<p align="center">
+  <a href="https://github.com/yeheniWijesinghe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yeheni-wijesinghe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yeheninarthana@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 💻 Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,git,github,postman,vscode,figma&theme=dark" />
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yeheniWijesinghe&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeheniWijesinghe&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=yeheniWijesinghe&theme=tokyonight&hide_border=true" />
+### 🌱 Leveling Up
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unit%20%7C%20Regression%20%7C%20API%20%7C%20Sanity%20Testing-6e40c9?style=for-the-badge" />
+</p>
 
 ---
 
-<div align="center">
+## 🧪 My QA Toolkit
 
-### 📫 Let's connect!
+| 🔍 Manual Testing | ⚙️ Automation | 🌐 API | 🗄️ Data |
+|:---:|:---:|:---:|:---:|
+| Test case design | Selenium | Postman | SQL |
+| Test execution | Cypress *(learning)* | REST checks | Pandas |
+| Bug reporting | Playwright *(learning)* | Response validation | Excel & Power BI |
 
-Open to **QA**, **UI/UX** and **Business Analyst** roles, collaborations and research conversations.
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8B5CF6&center=true&vCenter=true&width=450&lines=Thanks+for+visiting!+%E2%9C%A8;Found+a+bug%3F+Open+an+issue+%F0%9F%98%84" alt="Outro" />
+## 🏅 Certifications
 
-</div>
+-  **Power BI for Beginners** — Simplilearn
+-  **JavaScript Essentials 2** — Cisco Networking Academy
+-  **JavaScript Essentials 1** — Cisco Networking Academy
+-  **Introduction to SQL** — Sololearn
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yeheniWijesinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff7eb6&icon_color=6e40c9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeheniWijesinghe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff7eb6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yeheniWijesinghe&theme=tokyonight&hide_border=true&background=0d1117&ring=ff7eb6&fire=ff7eb6&currStreakLabel=ff7eb6" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeheniWijesinghe&bg_color=0d1117&color=ff7eb6&line=6e40c9&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yeheniWijesinghe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Quality is not an act, it is a habit." — Aristotle</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yeheniWijesinghe&color=ff7eb6&style=flat-square&label=Profile+Views" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb6,50:6e40c9,100:0d1117&height=120&section=footer" width="100%" />
